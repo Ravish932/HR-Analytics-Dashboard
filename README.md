@@ -46,6 +46,9 @@ This is an end-to-end HR Analytics project using Excel and Power BI. The goal of
 - **Years Since Last Promotion** affects attrition, indicating employee dissatisfaction with growth opportunities.
   
 ---
+## 📌 Conclusion
+
+This Excel-based HR analytics dashboard provides a solid foundation for HR decision-making. It emphasizes the power of **data storytelling** using  Excel.
 
 
 ## 🙏 Thanks for visiting!
