@@ -11,7 +11,7 @@ Welcome to the HR Analytics Dashboard project! This Excel-based interactive dash
 ## 📌 Project Overview
 
 
-This is an end-to-end HR Analytics project using Excel and Power BI. The goal of the project is to identify key HR metrics, especially employee attrition, and visualize them in an insightful dashboard.
+This is an end-to-end HR Analytics project using Excel. The goal of the project is to identify key HR metrics, especially employee attrition, and visualize them in an insightful dashboard.
 
 ---
 
@@ -40,9 +40,8 @@ This is an end-to-end HR Analytics project using Excel and Power BI. The goal of
 ## 🔍 Key Insights
 
 - Departments like **Sales** show higher attrition rates.
-- Most attrition happens in the **early years** of tenure.
+- Most employees leave within the first 4 years  
 - **Monthly Income** and **Job Role** show patterns in employee retention.
-- Work-Life Balance scores **do not strongly correlate** with attrition, as visualized in the dashboard.
 - **Years Since Last Promotion** affects attrition, indicating employee dissatisfaction with growth opportunities.
   
 ---
@@ -50,8 +49,14 @@ This is an end-to-end HR Analytics project using Excel and Power BI. The goal of
 
 This Excel-based HR analytics dashboard provides a solid foundation for HR decision-making. It emphasizes the power of **data storytelling** using  Excel.
 
+---
 
-## 🙏 Thanks for visiting!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlign=middle" />
+</p>
+
+
+
 
 Feel free to ⭐ this repository if you found it helpful. Suggestions and feedback are welcome!
 
