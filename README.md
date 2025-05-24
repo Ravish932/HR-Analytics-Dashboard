@@ -10,6 +10,8 @@ Welcome to the HR Analytics Dashboard project! This Excel-based interactive dash
 
 This project explores attrition patterns and key HR metrics using an Excel dashboard. It helps HR managers and business leaders identify trends in employee turnover, salaries, demographics, and job roles.
 
+This is an end-to-end HR Analytics project using Excel and Power BI. The goal of the project is to identify key HR metrics, especially employee attrition, and visualize them in an insightful dashboard.
+
 ---
 
 ## 🎯 Objective
